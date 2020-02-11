@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2Famule.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2Famule?ref=badge_shield)
+
 This debian rules file controls the buildprocess of the packages of aMule you can either run
 dpkg-buildpackage -us -uc -b -rfakeroot
 to build them all, or you can invoke debian/rules directly with the target you want to be build. If you run
@@ -52,3 +54,7 @@ you want to get the pkg's
 
 The targets can be given in any order and combination
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2Famule.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2Famule?ref=badge_large)
